@@ -1,0 +1,53 @@
+PUPPY PET CENTER — WEBSITE ONE PAGE DEMONSTRATIVO
+Produzido pela Neo Arte, novembro/2026.
+
+1) ABRIR E PUBLICAR
+- Extraia o ZIP.
+- Abra index.html no navegador.
+- Para GitHub Pages, suba os arquivos index.html, styles.css,
+  script.js, config.js, LEIA-ME.txt e a pasta assets/ na raiz do repositório.
+- Para cPanel, envie o conteúdo da pasta puppy_pet_center_site a public_html.
+
+2) PONTOS DE CONFIGURAÇÃO
+- No config.js altere o WhatsApp em um só lugar, se necessário.
+- Confirme e altere o endereço antes de publicação.
+- Abra o site, teste cada botão de WhatsApp e a criação de mensagem do formulário.
+- Os botões de WhatsApp não enviam mensagem automaticamente;
+  apenas abrem o aplicativo/site com o texto pronto.
+- O formulário não armazena dados em banco de dados nem envia e-mail.
+
+3) MARCA E IMAGENS
+- Logotipo circular: recorte do perfil oficial do Instagram @puppycascavel,
+  fornecido pelo usuário em captura de tela. Por ser recorte de captura de tela,
+  a resolução é limitada. Solicite a arte original (PNG transparente ou vetor)
+  antes da implantação definitiva.
+- Fotografias são ILUSTRATIVAS, aproveitadas de esboços conceituais.
+  NÃO representam fotos reais nem trabalhos executados pela Puppy.
+  Substitua todas as imagens por fotos reais e AUTORIZADAS da empresa.
+- Não mostramos imagens falsas de fachada, suítes de hotel ou equipe.
+
+4) SERVIÇOS E CONTATO
+- Banho e tosa, banhos terapêuticos com cromoterapia, hotel e creche
+  foram informados no Instagram @puppycascavel exibido na captura do usuário.
+- Telefone: (45) 99148-1774 (captura do usuário e perfis comerciais).
+- Endereço: Rua Marechal Floriano, 3683, esquina com Rua Natal,
+  Centro, Cascavel/PR (perfil comercial; confirme com o proprietário).
+- Instagram: https://www.instagram.com/puppycascavel/
+- Dias/horários não foram incluídos por falta de confirmação.
+
+5) FUNCIONALIDADES
+- Menu mobile, navegação entre seções, rolagem suave e indicador de progresso.
+- Cards com modais de detalhes dos serviços.
+- FAQ interativo.
+- Formulário de agendamento que abre WhatsApp com mensagem personalizada.
+- Animações discretas com respeito a 'prefers-reduced-motion'.
+- Botão flutuante de WhatsApp, voltar ao topo e rodapé completo e compacto.
+- HTML semântico, alt text, dados estruturados e meta tags básicas para SEO.
+- Responsivo para desktops, tablets e celulares.
+
+6) IMPORTANTE
+- O site é uma DEMONSTRAÇÃO para prospecção; não representa contratação.
+- Não foi validado pela empresa; serviços, dados e fotos devem ser aprovados.
+- Pontuação do PageSpeed só pode ser informada após publicação e medição real.
+- Evite afirmar que cromoterapia produz benefícios clínicos comprovados.
+- Nenhuma informação de cliente é armazenada localmente.
